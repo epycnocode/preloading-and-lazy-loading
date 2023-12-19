@@ -29,16 +29,5 @@ HTML
 <img src="/placeholder.png" data-src="/images/hero.jpg" loading="lazy">
 ```
 
-This shows a placeholder image while the actual hero image ("hero.jpg") is lazily loaded when the user scrolls down to see it.
-
-**4. Remember:**
-
-  - Preload only essential resources to avoid overloading the browser.
-  - Use lazy loading for non-critical elements like images and videos.
-  - Test your implementations thoroughly to ensure smooth performance across devices.
-
-**Bonus Tip:** Explore Webflow's built-in "Lazy Loading Images" setting to easily activate lazy loading for all images on your site.
-
-
 # Need Help?
 Stuck with custom css code? [Contact us](https://epyc.in/).
